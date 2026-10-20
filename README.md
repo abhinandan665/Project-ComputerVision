@@ -1,6 +1,6 @@
 # Object Boundary Detection Using Image Processing
 
-## 1. Project Overview
+## 1. Project Over View
 
 This project detects the edges and boundaries of objects present in an input image using basic computer vision and image processing techniques.
 
